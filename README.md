@@ -23,6 +23,20 @@ The goal is to uncover business insights about customers, products and sales per
 
 ---
 
+### ⚠️ Prerequisites
+
+This project relies on the **views created in My "Data Warehouse and Analytics" project**.  
+Before running the queries in `scripts`, ensure that the following views exist in your Gold Layer:
+
+- `dim_customers`
+- `dim_products`
+- `fact_sales`
+
+These views are required to replicate the results exactly as presented in the analysis.  
+Please run the SQL scripts from the 🔗 [sql-data-warehouse-project](https://github.com/omerdoron3101/sql-data-warehouse-project/tree/main) to generate them.
+
+---
+
 ## 🛡️ License
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
