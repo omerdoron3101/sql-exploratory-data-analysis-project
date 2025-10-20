@@ -1,6 +1,5 @@
 # Exploratory Data Analysis (EDA) Project
-
-Welcome to the **Exploratory Data Analysis (EDA) Project** project!   
+ 
 This project explores and analyzes a retail sales dataset stored in a star schema model using **SQL**.
 The goal is to uncover business insights about customers, products and sales performance.
 
